@@ -1,0 +1,14 @@
+/home/jonander/VSCode_Workspace/RespuestaAAD10112026/bin/Debug/net10.0/RespuestaAAD10112026
+/home/jonander/VSCode_Workspace/RespuestaAAD10112026/bin/Debug/net10.0/RespuestaAAD10112026.deps.json
+/home/jonander/VSCode_Workspace/RespuestaAAD10112026/bin/Debug/net10.0/RespuestaAAD10112026.runtimeconfig.json
+/home/jonander/VSCode_Workspace/RespuestaAAD10112026/bin/Debug/net10.0/RespuestaAAD10112026.dll
+/home/jonander/VSCode_Workspace/RespuestaAAD10112026/bin/Debug/net10.0/RespuestaAAD10112026.pdb
+/home/jonander/VSCode_Workspace/RespuestaAAD10112026/obj/Debug/net10.0/RespuestaAAD10112026.GeneratedMSBuildEditorConfig.editorconfig
+/home/jonander/VSCode_Workspace/RespuestaAAD10112026/obj/Debug/net10.0/RespuestaAAD10112026.AssemblyInfoInputs.cache
+/home/jonander/VSCode_Workspace/RespuestaAAD10112026/obj/Debug/net10.0/RespuestaAAD10112026.AssemblyInfo.cs
+/home/jonander/VSCode_Workspace/RespuestaAAD10112026/obj/Debug/net10.0/RespuestaAAD10112026.csproj.CoreCompileInputs.cache
+/home/jonander/VSCode_Workspace/RespuestaAAD10112026/obj/Debug/net10.0/RespuestaAAD10112026.dll
+/home/jonander/VSCode_Workspace/RespuestaAAD10112026/obj/Debug/net10.0/refint/RespuestaAAD10112026.dll
+/home/jonander/VSCode_Workspace/RespuestaAAD10112026/obj/Debug/net10.0/RespuestaAAD10112026.pdb
+/home/jonander/VSCode_Workspace/RespuestaAAD10112026/obj/Debug/net10.0/RespuestaAAD10112026.genruntimeconfig.cache
+/home/jonander/VSCode_Workspace/RespuestaAAD10112026/obj/Debug/net10.0/ref/RespuestaAAD10112026.dll
